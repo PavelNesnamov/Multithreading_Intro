@@ -1,6 +1,6 @@
-package ait.multi.task;
+package ait.multithreading.task;
 
-public class MyTaskImplements implements Runnable{
+public class MyTaskImplements implements Runnable {
     private String name;
     private int max;
 

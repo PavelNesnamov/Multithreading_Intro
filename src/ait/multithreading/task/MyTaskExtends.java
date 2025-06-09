@@ -1,6 +1,6 @@
-package ait.multi.task;
+package ait.multithreading.task;
 
-public class MyTaskExtends extends Thread{
+public class MyTaskExtends extends Thread {
     private String name;
     private int max;
 
