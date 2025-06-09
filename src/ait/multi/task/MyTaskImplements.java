@@ -1,4 +1,4 @@
-package ait.multti.task;
+package ait.multi.task;
 
 public class MyTaskImplements implements Runnable{
     private String name;

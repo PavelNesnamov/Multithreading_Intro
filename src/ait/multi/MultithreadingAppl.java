@@ -1,7 +1,7 @@
-package ait.multti;
+package ait.multi;
 
-import ait.multti.task.MyTaskExtends;
-import ait.multti.task.MyTaskImplements;
+import ait.multi.task.MyTaskExtends;
+import ait.multi.task.MyTaskImplements;
 
 public class MultithreadingAppl {
     private static final int MAX = 10;
