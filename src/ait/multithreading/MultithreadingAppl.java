@@ -23,6 +23,7 @@ public class MultithreadingAppl {
         for (int i = 0; i < threads.length; i++) {
             threads[i].start();
         }
+
         thread1.start();
         thread2.start();
         for (int i = 0; i < MAX; i++) {
